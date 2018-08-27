@@ -1,0 +1,18 @@
+{
+  "name": "ionic-native-demo",
+  "version": "1.0.0",
+  "description": "this is a test demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "--"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "wiley",
+  "license": "ISC"
+}
